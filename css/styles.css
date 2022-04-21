@@ -176,4 +176,7 @@ font-weight: bold;
     .press-logo{
         width: 10%;
     }
+    #pricing{
+        padding: 50px;
+    }
 }
